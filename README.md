@@ -453,6 +453,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/erlang`][@stdlib/random/array/erlang]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from an Erlang distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/erlang`][@stdlib/random/iter/erlang]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from an Erlang distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/erlang`][@stdlib/random/streams/erlang]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from an Erlang distribution.</span>
+-   <span class="package-name">[`@stdlib/random-erlang`][@stdlib/random/erlang]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from an Erlang distribution.</span>
 
 </section>
 
@@ -541,6 +542,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/erlang]: https://github.com/stdlib-js/random-iter-erlang
 
 [@stdlib/random/streams/erlang]: https://github.com/stdlib-js/random-streams-erlang
+
+[@stdlib/random/erlang]: https://github.com/stdlib-js/random-erlang
 
 <!-- </related-links> -->
 
